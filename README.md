@@ -40,5 +40,5 @@ THEN I find a concise, descriptive title
 
 ## Deployed page
 
-Page published at: https://nbross.github.io/SEO-Refactor-HTML-Jorizon/
-Git Hub Repo: https://github.com/nbross/SEO-Refactor-HTML-Jorizon
+Page published at: https://nbross.github.io/Horizon-Code-Refactor/
+Git Hub Repo: https://github.com/nbross/Horizon-Code-Refactor
