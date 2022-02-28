@@ -36,7 +36,7 @@ THEN I find a concise, descriptive title
 
 ## Screenshot
 
-![HoriseonScreen](./Develop/assets/images/Horiseon-Code-Refactor.png)
+![HoriseonScreen](./assets/images/Horiseon-Code-Refactor.png)
 
 ## Deployed page
 
